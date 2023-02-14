@@ -4,7 +4,7 @@ metadata:
   name: sf-webserver
 spec:
   selector:
-    app: nginx
+    app: my-nginx
   ports:
     - protocol: TCP
       port: 80
